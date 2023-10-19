@@ -86,7 +86,7 @@ align-items: center;
     display: flex;
 }
 .flag{
-    background-image: url(/images/flag.png);
+    background-image: url(./images/flag.png);
     background-size:contain;
     background-repeat: no-repeat;
     height: 25px;
@@ -147,7 +147,7 @@ border: 2px solid orange;
 }
 
 .hero-sec{
-    background-image: url(/images/hero1.jpg);
+    background-image: url(./images/hero1.jpg);
     height: 350px;
     background-size: cover;
     background-repeat: no-repeat;
@@ -244,7 +244,7 @@ ul p{
     align-items: center;
 }
 .footer-logo{
-    background-image: url(/images/amazon_logo.png);
+    background-image: url(./images/amazon_logo.png);
     height: 50px;
     width: 100px;
     background-repeat: no-repeat;
@@ -261,7 +261,7 @@ ul p{
 }
 
 .flag1{
-    background-image: url(/images/flag.png);
+    background-image: url(./images/flag.png);
     background-size:contain;
     background-repeat: no-repeat;
     height: 20px;
